@@ -1,8 +1,9 @@
-About
-=========
+Magento Ajax Layered Navigation Free Module
+===========================================
 
-Magento ajax multiselect filter module.
-
+This is a free magento ajax layered navigation module compatible with Magento CE >= 1.5 and Magento EE >= 1.7.
+Changes catalog and search result layered navigation, paging and sorting to ajax in Magento.
+Also you can choose multiple options for each attribute in layered navigation (radio-buttons changed to checkboxes).
 
 Install via Composer
 =========
