@@ -17,6 +17,7 @@ If you always wanted a free magento module for ajax pagination, sorting and laye
 * Ajax for search results pagination
 * Ajax for search results layered navigation
 * Compatible with  Magento CE >= 1.5 and Magento EE >= 1.7
+* Compatible with history API (URL dynamically changes on state update)
 
 ##Installation via Composer
 
@@ -41,5 +42,4 @@ Add to your `composer.json`
 
 ##Screenshots
 
-![Oggetto Filter](https://raw.githubusercontent.com/deniswhite8/imgs/master/filter/1.png)
-![Oggetto Filter](https://raw.githubusercontent.com/deniswhite8/imgs/master/filter/2.png)
+![Oggetto Filter](http://i.imgur.com/oix7pG3.jpg)
