@@ -5,7 +5,7 @@ Changes catalog and search result layered navigation, paging and sorting to ajax
 Also you can choose multiple options for each attribute in layered navigation (radio-buttons changed to checkboxes).
 If you always wanted a free magento module for ajax pagination, sorting and layered navigation this solution is for you.
 
-##Full Features L1ist
+##Full Features List
 
 * Multiple values (checkboxes) for attributes in layered navigation
 * Ajax for catalog product list sorting
@@ -18,8 +18,7 @@ If you always wanted a free magento module for ajax pagination, sorting and laye
 * Ajax for search results layered navigation
 * Compatible with  Magento CE >= 1.5 and Magento EE >= 1.7
 
-Install via Composer
-=========
+##Installation via Composer
 
 Add to your `composer.json`
 
@@ -40,8 +39,7 @@ Add to your `composer.json`
 
 ```
 
-Screenshots
-=========
+##Screenshots
 
 ![Oggetto Filter](https://raw.githubusercontent.com/deniswhite8/imgs/master/filter/1.png)
 ![Oggetto Filter](https://raw.githubusercontent.com/deniswhite8/imgs/master/filter/2.png)
